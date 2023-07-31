@@ -22,6 +22,22 @@
     "message": "Hello! This is Satish Chandra. I am a React Developer.",
     "percentage": "96%",
     "image": "https://raw.githubusercontent.com/abhivishrut/mmps_best_students/main/img/satish.png"
+  },
+   {
+    "id": 4,
+    "name": "Nitin Kumar",
+    "className": "12th",
+    "message": "Hello! This is Nitin Kumar. I am Web Developer",
+    "percentage": "90%",
+    "image": "https://raw.githubusercontent.com/abhivishrut/mmps_best_students/main/img/divyank.png"
+  },
+  {
+    "id": 5,
+    "name": "Rajesh Singh",
+    "className": "10th",
+    "message": "Hello! This is Rajesh Singh. I am a React Developer.",
+    "percentage": "96%",
+    "image": "https://raw.githubusercontent.com/abhivishrut/mmps_best_students/main/img/satish.png"
   }
   
 ]
