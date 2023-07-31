@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Abhivishrut Vishnoi",
+    "class":"12th",
+    "message": "Hello! This is Abhivishrut Bishnoi. I am a Founder & ECO, Codewati",
+    "percentage": "98%",
+    "image": "https://raw.githubusercontent.com/abhivishrut/first/main/img/abhi.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Divyank Dalel",
+    "class":"12th",
+    "message": "Hello! This is Divyank Dalel. I am Ophthalmologist",
+    "percentage": "90%",
+    "image": "https://raw.githubusercontent.com/abhivishrut/first/main/img/divyank.png"
+  },
+  {
+    "id": 3,
+    "name": "Satish Chandra",
+    "class":"10th",
+    "message": "Hello! This is Satish Chandra. I am an React Developer.",
+    "percentage": "React Developer",
+    "image": "https://raw.githubusercontent.com/abhivishrut/first/main/img/satish.png"
+  }
+  
+]
