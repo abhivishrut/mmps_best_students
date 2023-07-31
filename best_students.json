@@ -5,7 +5,7 @@
     "class":"12th",
     "message": "Hello! This is Abhivishrut Bishnoi. I am a Founder & ECO, Codewati",
     "percentage": "98%",
-    "image": "https://raw.githubusercontent.com/abhivishrut/first/main/img/abhi.jpeg"
+    "image": "https://github.com/abhivishrut/mmps_best_students/blob/main/img/abhi.jpeg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "class":"12th",
     "message": "Hello! This is Divyank Dalel. I am Ophthalmologist",
     "percentage": "90%",
-    "image": "https://raw.githubusercontent.com/abhivishrut/first/main/img/divyank.png"
+    "image": "https://github.com/abhivishrut/mmps_best_students/blob/main/img/divyank.png"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "class":"10th",
     "message": "Hello! This is Satish Chandra. I am an React Developer.",
     "percentage": "React Developer",
-    "image": "https://raw.githubusercontent.com/abhivishrut/first/main/img/satish.png"
+    "image": "https://github.com/abhivishrut/mmps_best_students/blob/main/img/satish.png"
   }
   
 ]
