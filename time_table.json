@@ -1,0 +1,111 @@
+{
+    "Monday": [
+      {
+        "subject": "Mathematics",
+        "time": "09:00 AM - 10:00 AM"
+      },
+      {
+        "subject": "Science",
+        "time": "10:15 AM - 11:15 AM"
+      },
+      {
+        "subject": "English",
+        "time": "11:30 AM - 12:30 PM"
+      },
+      {
+        "subject": "History",
+        "time": "01:30 PM - 02:30 PM"
+      }
+    ],
+    "Tuesday": [
+      {
+        "subject": "Physics",
+        "time": "09:00 AM - 10:00 AM"
+      },
+      {
+        "subject": "Chemistry",
+        "time": "10:15 AM - 11:15 AM"
+      },
+      {
+        "subject": "Biology",
+        "time": "11:30 AM - 12:30 PM"
+      },
+      {
+        "subject": "Geography",
+        "time": "01:30 PM - 02:30 PM"
+      }
+    ],
+    "Wednesday": [
+      {
+        "subject": "Computer Science",
+        "time": "09:00 AM - 10:00 AM"
+      },
+      {
+        "subject": "Mathematics",
+        "time": "10:15 AM - 11:15 AM"
+      },
+      {
+        "subject": "English",
+        "time": "11:30 AM - 12:30 PM"
+      },
+      {
+        "subject": "History",
+        "time": "01:30 PM - 02:30 PM"
+      }
+    ],
+    "Thursday": [
+      {
+        "subject": "Physics",
+        "time": "09:00 AM - 10:00 AM"
+      },
+      {
+        "subject": "Chemistry",
+        "time": "10:15 AM - 11:15 AM"
+      },
+      {
+        "subject": "Biology",
+        "time": "11:30 AM - 12:30 PM"
+      },
+      {
+        "subject": "Geography",
+        "time": "01:30 PM - 02:30 PM"
+      }
+    ],
+    "Friday": [
+      {
+        "subject": "Computer Science",
+        "time": "09:00 AM - 10:00 AM"
+      },
+      {
+        "subject": "Mathematics",
+        "time": "10:15 AM - 11:15 AM"
+      },
+      {
+        "subject": "English",
+        "time": "11:30 AM - 12:30 PM"
+      },
+      {
+        "subject": "History",
+        "time": "01:30 PM - 02:30 PM"
+      }
+    ],
+    "Saturday": [
+      {
+        "subject": "Physical Education",
+        "time": "09:00 AM - 10:00 AM"
+      },
+      {
+        "subject": "Art",
+        "time": "10:15 AM - 11:15 AM"
+      },
+      {
+        "subject": "Music",
+        "time": "11:30 AM - 12:30 PM"
+      },
+      {
+        "subject": "Library",
+        "time": "01:30 PM - 02:30 PM"
+      }
+    ]
+  }
+  
